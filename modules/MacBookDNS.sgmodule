@@ -1,0 +1,7 @@
+#!name=MacBookDNS
+#!desc=Description Here
+
+[General]
+dns-server = quic://33657ce2.d.adguard-dns.com
+fallback-dns-server = system
+

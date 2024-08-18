@@ -1,0 +1,9 @@
+#!name=My Rule
+#!desc=Description Here
+
+[General]
+ipv6 = true
+
+[Rule]
+DOMAIN-SUFFIX,adguard-dns.io,Proxy
+DOMAIN-SUFFIX,adguard.com,Proxy
