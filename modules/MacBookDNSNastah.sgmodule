@@ -1,6 +1,6 @@
-#!name=iPhoneDNS
+#!name=MacBookDNSNastah
 #!desc=Description Here
 
 [General]
-dns-server = https://ea7789ec:nv_2vsjU@d.adguard-dns.com/dns-query
+dns-server = quic://4d95f3c7.d.adguard-dns.com
 fallback-dns-server = system
