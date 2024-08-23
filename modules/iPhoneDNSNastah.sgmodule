@@ -1,1 +1,6 @@
+#!name=iPhoneDNSNastah
+#!desc=Description Here
 
+[General]
+dns-server = https://77b18761:Q0*qDGke@d.adguard-dns.com/dns-query
+fallback-dns-server = system
