@@ -2,7 +2,6 @@
 #!desc=Description Here
 
 [General]
-dns-server = system
 ipv6 = true
 
 [Rule]
