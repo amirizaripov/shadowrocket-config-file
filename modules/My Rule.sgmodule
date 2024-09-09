@@ -1,5 +1,5 @@
 #!name=My Rule
-#!desc=Description Here
+#!desc=Тут пишу свои домены
 
 [General]
 ipv6 = true
