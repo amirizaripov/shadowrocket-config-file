@@ -1,7 +1,0 @@
-#!name=iPhoneDNS
-#!desc=Description Here
-
-[General]
-dns-server = https://ea7789ec:nv_2vsjU@d.adguard-dns.com/dns-query
-fallback-dns-server = system
-
